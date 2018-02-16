@@ -1,6 +1,6 @@
 {
   "name": "hello",
-  "homepage": "https://natalianowak.github.io/commentPhotoApp",
+  "homepage": "https://natalianowak.github.io/CommentPostApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.1.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
